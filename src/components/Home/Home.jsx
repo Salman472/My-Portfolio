@@ -25,7 +25,7 @@ const Home = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                "Junior Frontend Developer",
+                " Junior MERN Stack Developer",
                 "React Developer",
                 "Next.js Learner",
                 "JavaScript Enthusiast",
@@ -43,7 +43,7 @@ const Home = () => {
           
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/10Fo8hnuWGrsAZUPSnwejpty-RkXBDUIU/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ZgLorb59jQdw5uyvc87VRJKtAH0-sIs6/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
